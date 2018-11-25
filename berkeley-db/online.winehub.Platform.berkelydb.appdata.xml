@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="runtime">
+  <id>online.winehub.Platform.berkelydb</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>berkely db extension</name>
+  <summary>oracle berkey database</summary>
+</component>
