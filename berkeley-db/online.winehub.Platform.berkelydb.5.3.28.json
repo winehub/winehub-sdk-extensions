@@ -1,6 +1,6 @@
 {
     "id": "online.winehub.Platform.berkelydb",
-    "branch": "1.6",
+    "branch": "5.3.28",
     "runtime": "org.freedesktop.Sdk",
     "build-extension": true,
     "sdk": "org.freedesktop.Sdk",
